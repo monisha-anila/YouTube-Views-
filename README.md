@@ -3,9 +3,9 @@
 ## Problem Statement
 - ABC company want to target geographical ads based on YouTube information to decrease their Cost-to-Acquire New customer up to 10% monthly for the coming month. 
 
- *Please click the highlighted blue words to check*
- *Please use full screen mode in Tableau*
- *GR - Growth Rate, MAVG - Moving Average , RT - Running Total(Tableau abbreviations)*
+ - *Please click the highlighted blue words to check*
+ - *Please use full screen mode in Tableau*
+ - *GR - Growth Rate, MAVG - Moving Average , RT - Running Total(Tableau abbreviations)*
  
 ## Dataset
 - [CSV file](https://drive.google.com/file/d/1J3s9RBfzwPlIUHfNLAkwo3omPYC-bv6G/view?usp=sharing) 
