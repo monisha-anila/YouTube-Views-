@@ -4,11 +4,11 @@
 - ABC company want to target geographical ads based on YouTube information to decrease their Cost-to-Acquire New customer up to 10% monthly for the coming month. 
 
 ## Dataset
-- CSV file 
+- [CSV file](https://drive.google.com/file/d/1J3s9RBfzwPlIUHfNLAkwo3omPYC-bv6G/view?usp=sharing) 
 
 ## EDA
-- Tableau 
-- Python Notebook
+- [Tableau](https://public.tableau.com/profile/monisha.anila#!/vizhome/YouTubeLikes/Story1) 
+- [Python Notebook]()
 
 ## Ideation
 - Understand the YouTube content creators’ channels target audience behaviour to team up with them for Ads advertising.
