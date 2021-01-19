@@ -31,7 +31,7 @@
 - RMSE error is the ML model performance indicator.
 
 ## After Ideation
-- Check with domain expertise person to further train the ML model using location to sperate the main model.
+- Check with domain expertise person to further train the ML model using location to separate the main model.
 - After getting reasonable ML metric value we need to start testing using Statistics (A/B).
 - Before A/B testing select random samples from location based data and conduct z-test to avoid selection bias.
 - Define Null and Alternative hypothesis framing with default action.
